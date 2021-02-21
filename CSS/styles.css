@@ -1,0 +1,19 @@
+.First {
+    text-transform: capitalize;
+    color: #9b1e2f;
+    font-size: large;
+}
+img {
+    background-color: #9b1e2f;
+    border-radius: 100%;
+}
+body {
+    background-color: aqua;
+}
+hr {
+    border: none;
+    border-top: dotted;
+    border-width: 30px;
+    width: 30%;
+    border-top-color: bisque;
+}
